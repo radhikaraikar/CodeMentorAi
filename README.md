@@ -392,19 +392,6 @@ The app includes a **Demo Mode** that works even without a valid API key or when
 
 ---
 
-## 📄 License
-
-MIT License — free to use for personal, educational, and commercial projects.
-
----
-
-## 👨‍💻 Author
-
-**CodeMentor AI** — Built with ❤️ for students
-
-- Portfolio project demonstrating React, AI integration, and modern UI design
-- Suitable for internship applications, college mini projects, and GitHub showcase
-
 ---
 
 ## ⭐ Show Your Support
