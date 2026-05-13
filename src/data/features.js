@@ -1,0 +1,68 @@
+export const features = [
+  {
+    id: 1,
+    icon: 'FaCode',
+    title: 'Line-by-Line Explanation',
+    description: 'Get detailed explanations for every line of your code in simple, beginner-friendly language.',
+    color: 'from-indigo-500 to-purple-500',
+    link: '/explain',
+  },
+  {
+    id: 2,
+    icon: 'FaBug',
+    title: 'Debug Code',
+    description: 'Identify syntax errors, logical bugs, and get corrected code with detailed fix explanations.',
+    color: 'from-red-500 to-pink-500',
+    link: '/debug',
+  },
+  {
+    id: 3,
+    icon: 'FaRocket',
+    title: 'Optimize Code',
+    description: 'Improve performance, readability, and memory usage with AI-powered optimization suggestions.',
+    color: 'from-cyan-500 to-blue-500',
+    link: '/optimize',
+  },
+  {
+    id: 4,
+    icon: 'FaGraduationCap',
+    title: 'Viva Questions',
+    description: 'Generate exam-ready viva questions and answers from your code for interview preparation.',
+    color: 'from-yellow-500 to-orange-500',
+    link: '/viva',
+  },
+  {
+    id: 5,
+    icon: 'FaClock',
+    title: 'Complexity Analysis',
+    description: 'Understand time and space complexity of your algorithms with clear Big-O explanations.',
+    color: 'from-green-500 to-teal-500',
+    link: '/explain',
+  },
+  {
+    id: 6,
+    icon: 'FaHistory',
+    title: 'Save History',
+    description: 'All your explanations are automatically saved locally so you can revisit them anytime.',
+    color: 'from-purple-500 to-indigo-500',
+    link: '/history',
+  },
+  {
+    id: 7,
+    icon: 'FaStar',
+    title: 'Favorites',
+    description: 'Bookmark your most important explanations and access them quickly whenever needed.',
+    color: 'from-pink-500 to-rose-500',
+    link: '/favorites',
+  },
+  {
+    id: 8,
+    icon: 'FaDownload',
+    title: 'Download Explanation',
+    description: 'Export your AI-generated explanations as text files for offline study and reference.',
+    color: 'from-blue-500 to-cyan-500',
+    link: '/explain',
+  },
+];
+
+export default features;
